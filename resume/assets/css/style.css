@@ -51,7 +51,9 @@ ul {
 
 ul li {
   margin-bottom: 10px;
+  color: #ffffff !important;
 }
+
 
 /* Footer */
 footer {
